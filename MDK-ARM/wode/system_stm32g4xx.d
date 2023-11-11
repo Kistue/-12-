@@ -1,0 +1,31 @@
+wode\system_stm32g4xx.o: ../Core/Src/system_stm32g4xx.c
+wode\system_stm32g4xx.o: ../Drivers/CMSIS/Device/ST/STM32G4xx/Include/stm32g4xx.h
+wode\system_stm32g4xx.o: ../Drivers/CMSIS/Device/ST/STM32G4xx/Include/stm32g431xx.h
+wode\system_stm32g4xx.o: ../Drivers/CMSIS/Include/core_cm4.h
+wode\system_stm32g4xx.o: D:\Keil5 MDK\ARM\ARMCC\Bin\..\include\stdint.h
+wode\system_stm32g4xx.o: ../Drivers/CMSIS/Include/cmsis_version.h
+wode\system_stm32g4xx.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
+wode\system_stm32g4xx.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
+wode\system_stm32g4xx.o: ../Drivers/CMSIS/Include/mpu_armv7.h
+wode\system_stm32g4xx.o: ../Drivers/CMSIS/Device/ST/STM32G4xx/Include/system_stm32g4xx.h
+wode\system_stm32g4xx.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_hal.h
+wode\system_stm32g4xx.o: ../Core/Inc/stm32g4xx_hal_conf.h
+wode\system_stm32g4xx.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_hal_rcc.h
+wode\system_stm32g4xx.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_hal_def.h
+wode\system_stm32g4xx.o: ../Drivers/CMSIS/Device/ST/STM32G4xx/Include/stm32g4xx.h
+wode\system_stm32g4xx.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h
+wode\system_stm32g4xx.o: D:\Keil5 MDK\ARM\ARMCC\Bin\..\include\stddef.h
+wode\system_stm32g4xx.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_hal_rcc_ex.h
+wode\system_stm32g4xx.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_hal_gpio.h
+wode\system_stm32g4xx.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_hal_gpio_ex.h
+wode\system_stm32g4xx.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_hal_dma.h
+wode\system_stm32g4xx.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_hal_dma_ex.h
+wode\system_stm32g4xx.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_hal_cortex.h
+wode\system_stm32g4xx.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_hal_exti.h
+wode\system_stm32g4xx.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_hal_flash.h
+wode\system_stm32g4xx.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_hal_flash_ex.h
+wode\system_stm32g4xx.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_hal_flash_ramfunc.h
+wode\system_stm32g4xx.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_hal_pwr.h
+wode\system_stm32g4xx.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_hal_pwr_ex.h
+wode\system_stm32g4xx.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_hal_uart.h
+wode\system_stm32g4xx.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_hal_uart_ex.h
